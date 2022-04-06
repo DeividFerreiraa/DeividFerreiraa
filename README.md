@@ -1,5 +1,5 @@
 <h1>Olá 👋🏾! Eu me chamo Deivid. </h1><br>
-Tenho 25 anos e estou me formando em Ciência da Computação na faculdade UNICID.<br>
+Tenho 25 anos e estou me formando em Ciência da Computação na UNICID.<br>
 Resolvi iniciar algumas postagens dos meus estudos e projetos que iniciei aqui para que todos possam acompanhar minha evolução.<br>
 Atualmente estou estudando Desenvulvimento WEB e pretendo iniciar na área o quanto antes para poder acelerar meu crescimento.<br>
 Utilizo as plataformas RocketSeat, Udemy e Youtube para desenvolver minha proeficiência. 
